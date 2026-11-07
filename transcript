@@ -1,0 +1,28 @@
+# Compile of ALU.v was successful.
+# Compile of ALU_Control.v was successful.
+# Compile of Control_Unit.v was successful.
+# Compile of MIPS_Datapath_R.v was successful.
+# Compile of Mux2x1_5bit.v was successful.
+# Compile of Mux2x1_32bit.v was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of tb_MIPS_Datapath_R.v was successful.
+vsim work.tb_MIPS_Datapath_R
+# vsim work.tb_MIPS_Datapath_R 
+# Start time: 21:30:17 on Nov 06,2026
+# Loading work.tb_MIPS_Datapath_R
+# Loading work.MIPS_Datapath_R
+# Loading work.Control_Unit
+# Loading work.Mux2x1_5bit
+# Loading work.Mux2x1_32bit
+# Loading work.ALU_Control
+# Loading work.ALU
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_MIPS_Datapath_R/*
+run
+# Tiempo=0 | Instr=00000001000010010101000000100000 | R1=        15 | R2=        10 | ALURes=        25 | RegDest=10
+# Tiempo=10000 | Instr=00000001000010010101100000100010 | R1=        25 | R2=         5 | ALURes=        20 | RegDest=11
+# Tiempo=20000 | Instr=00000001000010010110000000100100 | R1=        12 | R2=        10 | ALURes=         8 | RegDest=12
+# ** Note: $finish    : C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/tb_MIPS_Datapath_R.v(54)
+#    Time: 30 ns  Iteration: 0  Instance: /tb_MIPS_Datapath_R
+# 1
+# Break in Module tb_MIPS_Datapath_R at C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/tb_MIPS_Datapath_R.v line 54
