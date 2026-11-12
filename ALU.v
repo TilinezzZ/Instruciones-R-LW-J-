@@ -1,8 +1,5 @@
-// Unidad Lógica Aritmética (ALU)
 module ALU(
-    input [31:0] A, B,
-    input [3:0] ALUCtrl,
-    output reg [31:0] ALUResult
+    input [31:0] A, B, input [3:0] ALUCtrl, output reg [31:0] ALUResult, output Zero
 );
     always @(*) begin
         case(ALUCtrl)
@@ -14,4 +11,5 @@ module ALU(
             default: ALUResult = 32'd0;
         endcase
     end
+    assign Zero = (ALUResult == 32'd0) ? 1'b1 : 1'b0;
 endmodule

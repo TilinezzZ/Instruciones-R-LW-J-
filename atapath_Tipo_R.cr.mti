@@ -1,0 +1,50 @@
+{C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/tb_MIPS_Datapath_R.v} {1 {vlog -work work -stats=none {C:\Users\ethan\OneDrive\Escritorio\Instrucciones tipo R\tb_MIPS_Datapath_R.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_MIPS_Datapath_R
+
+Top level modules:
+	tb_MIPS_Datapath_R
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/ALU_Control.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/ALU_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/ALU.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Mux2x1_32bit.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Mux2x1_32bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2x1_32bit
+
+Top level modules:
+	Mux2x1_32bit
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Mux2x1_5bit.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Mux2x1_5bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2x1_5bit
+
+Top level modules:
+	Mux2x1_5bit
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/MIPS_Datapath_R.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/MIPS_Datapath_R.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_Datapath_R
+
+Top level modules:
+	MIPS_Datapath_R
+
+} {} {}} {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Control_Unit.v} {1 {vlog -work work -stats=none {C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/Control_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}}

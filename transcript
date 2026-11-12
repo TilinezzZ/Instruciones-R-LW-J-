@@ -26,3 +26,5 @@ run
 #    Time: 30 ns  Iteration: 0  Instance: /tb_MIPS_Datapath_R
 # 1
 # Break in Module tb_MIPS_Datapath_R at C:/Users/ethan/OneDrive/Escritorio/Instrucciones tipo R/tb_MIPS_Datapath_R.v line 54
+# End time: 21:37:35 on Nov 06,2026, Elapsed time: 0:07:18
+# Errors: 0, Warnings: 7
